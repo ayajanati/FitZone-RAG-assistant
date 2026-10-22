@@ -1,0 +1,17 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Fichiers sensibles
+.env
+*.env
+
+# Divers
+*.class
+.DS_Store
