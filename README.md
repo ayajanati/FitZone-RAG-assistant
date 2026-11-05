@@ -42,7 +42,7 @@ Java 21 · Maven · LangChain4j 1.13.1 · Google Gemini · all-MiniLM-L6-v2 · J
 **Prérequis :** JDK 21, Maven (ou un IDE compatible) et une [clé API Gemini](https://aistudio.google.com/).
 
 ```bash
-git clone https://github.com/TON-PSEUDO/fitzone-rag-assistant.git
+git clone https://github.com/ayajanati/fitzone-rag-assistant.git
 cd fitzone-rag-assistant
 ```
 
